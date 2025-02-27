@@ -1,4 +1,4 @@
-# Email Configuration UI
+#  Email & PDF Ingestion with Simple UI
 
 This is a simple Email Configuration UI built using **HTML and CSS**. It provides a clean and minimal interface for users to enter and view email configurations.
 
