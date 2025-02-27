@@ -31,6 +31,7 @@ This is a simple Email Configuration UI built using **HTML and CSS**. It provide
 ## 📸 Screenshot
 
 &#x20;*(Include a screenshot of your UI here)*
+![Project Screenshot](<Screenshot 2025-02-27 at 7.58.46 PM.png>)
 
 ## 🚀 Future Improvements
 
